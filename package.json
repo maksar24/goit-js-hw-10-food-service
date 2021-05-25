@@ -1,19 +1,19 @@
 {
-  "name": "parcel-project-template",
+  "name": "food-service",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://maksar24.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://maksar24.github.io/goit-js-hw-10-food-service/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://maksar24.github.io/goit-js-hw-10-food-service"
+    "url": "git+https://maksar24.github.io/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Maksym Leskovets <leskovecmaksim@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://maksar24.github.io/goit-js-hw-10-food-service/issues"
